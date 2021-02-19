@@ -9,8 +9,6 @@
 - [License](#License)
 - [Contribution](#Contribution)
 - [Tests](#Tests)
-- [Username](#Username)
-- [Repository](#Repository)
 
 ## Description
 
