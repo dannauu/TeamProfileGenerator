@@ -36,7 +36,7 @@ Before running the application user must perform "npm install" to install all re
 
 ## Contribution
 
-Fork the repository and make an necessary changes you see fit and submit a pull request!
+Fork the repository and make any necessary changes you see fit and submit a pull request!
 
 ## Tests
 
