@@ -19,9 +19,11 @@ Team Profile Generator is a command line input application ran in node that uses
 Before running the application user must perform "npm install" to install all required dependencies.
 
 ## Usage
-
+### Application in use below
 ![](https://github.com/dannauu/TeamProfileGenerator/blob/main/assets/images/screenshot1.PNG)
+### Output for user input (myteam.HTML)
 ![](https://github.com/dannauu/TeamProfileGenerator/blob/main/assets/images/readmeGIF.gif)
+### HTML showcased
 ![](https://github.com/dannauu/TeamProfileGenerator/blob/main/assets/images/screenshot2.PNG)
 
 ## Tutorial
