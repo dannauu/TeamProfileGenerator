@@ -22,8 +22,8 @@ Before running the application user must perform "npm install" to install all re
 
 ## Usage
 
-![]()
-![]()
+![](https://github.com/dannauu/TeamProfileGenerator/blob/main/assets/images/screenshot1.PNG)
+![](https://github.com/dannauu/TeamProfileGenerator/blob/main/assets/images/readmeGIF.gif)
 
 ## Tutorial
 
