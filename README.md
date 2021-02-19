@@ -28,7 +28,7 @@ Before running the application user must perform "npm install" to install all re
 
 ## Tutorial
 
-[Video Tutorial]()
+[Video Tutorial](https://drive.google.com/file/d/1iDKrVy89nJJYWeKtStytGCHLxyBqPwhI/view)
 
 ## License
 
