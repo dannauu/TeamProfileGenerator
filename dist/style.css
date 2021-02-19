@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin-block-start: 0;
+  font-weight: 100;
+}
+
+.myTeam {
+  height: 8em;
+  width: auto;
+  margin-top: 50px;
+}
+
+.myTeamh1 {
+  color: black;
+  text-align: center;
+  font-size: 5em;
+  border: 0;
+}
+
+.card-title {
+  background-color: lightgray;
+  height: 4em;
+  text-align: center;
+  color: black;
+}
+
+ul {
+  list-style: none;
+  background-color: lightgray;
+}
+
+.card {
+  border: 4px solid rgba(0, 0, 0, 1);
+  width: 90%;
+  background-image: url(../assets/images/backgroundimage.jfif);
+  box-shadow: 8px 8px 8px 8px rgba(5, 5, 5, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 45px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  background-image: url(../assets/images/navImage.jpg);
+}
+
+.btn {
+  color: white;
+}
+
+body {
+  background-image: url(../assets/images/backgroundimage.jfif);
+}
+
+li {
+  font-size: 16px;
+}
+
+.col-md-4 {
+  margin-top: 50px;
+}
